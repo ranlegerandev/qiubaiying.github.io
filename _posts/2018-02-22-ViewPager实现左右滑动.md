@@ -4,7 +4,7 @@ title:      Android中ViewPager实现左右滑动
 subtitle:   ViewPager实现左右滑动
 date:       2018-02-22
 author:     然了个然
-header-img: post-bg-ioses.jpg
+header-img: home-bg-art.jpg
 catalog: true
 tags:
     - Android
